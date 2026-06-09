@@ -132,26 +132,7 @@ realtime-object-detection/
 
 ---
 
-## 🔭 Future Enhancements
 
-- [ ] Custom YOLOv8 training for domain-specific objects (e.g., pens, rulers, erasers)
-- [ ] Object counting feature (e.g., count persons or bottles in frame)
-- [ ] Voice output — speak detected object names aloud
-- [ ] Video file upload support
-- [ ] Detection history/log over time
-- [ ] Edge deployment on Raspberry Pi
-
----
-
-## ☁️ Deployment (Hugging Face Spaces)
-
-1. Create a free account at [huggingface.co](https://huggingface.co)
-2. Create a new Space and select **Streamlit** as the SDK
-3. Upload `app.py` and `requirements.txt` to the Space repository
-4. Hugging Face auto-builds and deploys the app
-5. Share the live URL with anyone — no setup required on their end
-
----
 
 ## 📚 References
 
@@ -164,14 +145,3 @@ realtime-object-detection/
 
 ---
 
-## 🏫 Project Info
-
-| Field | Details |
-|---|---|
-| Domain | Artificial Intelligence & Machine Learning |
-| Level | Intermediate |
-| Year | 2025–2026 |
-
----
-
-> Built with ❤️ using YOLOv8 + Streamlit — detecting the world, one frame at a time.
