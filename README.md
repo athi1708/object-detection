@@ -122,14 +122,6 @@ realtime-object-detection/
 
 ---
 
-## ⚠️ Limitations
-
-- Only detects **80 COCO classes** — objects outside this list require custom training
-- Webcam performance depends on hardware — slower machines may experience lag
-- Low-light conditions reduce detection accuracy
-- Very small or partially hidden objects may not be detected reliably
-- The Nano model trades some accuracy for speed — use `YOLOv8s` or `YOLOv8m` for better accuracy
-
 ---
 
 
