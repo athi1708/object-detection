@@ -24,7 +24,7 @@ Traditional object detection systems are slow, resource-heavy, and not user-frie
 - ⚡ Fast inference using the **YOLOv8 Nano** model (lightweight & efficient)
 - ☁️ Fully deployable as a web app on **Hugging Face Spaces**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@ Traditional object detection systems are slow, resource-heavy, and not user-frie
 | Numerical Computing | NumPy | Array and matrix operations |
 | Deployment | Hugging Face Spaces | Free cloud deployment |
 
----
+
 
 ## ⚙️ How It Works
 
@@ -54,7 +54,6 @@ Model returns bounding boxes, class labels, confidence scores
 Annotated image + results table displayed on Streamlit UI
 ```
 
----
 
 ## 📦 Installation & Setup
 
