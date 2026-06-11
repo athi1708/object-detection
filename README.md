@@ -13,7 +13,6 @@ Traditional object detection systems are slow, resource-heavy, and not user-frie
 - Supports both **image upload** and **live webcam** modes
 - Runs in the browser — **no installation needed for end users**
 
----
 
 ## 🚀 Features
 
