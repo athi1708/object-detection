@@ -3,7 +3,6 @@ A Computer Vision AI application that detects objects in real time from images o
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit) ![Domain](https://img.shields.io/badge/Domain-AI%20%26%20ML-green)
 
----
 
 ## 📌 Overview
 
