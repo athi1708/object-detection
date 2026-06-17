@@ -116,7 +116,10 @@ realtime-object-detection/
 | Mobile phone | `cell phone` | High |
 | Pen *(not in COCO)* | may misclassify | — |
 
+Output
 ---
+<img width="1903" height="875" alt="image" src="https://github.com/user-attachments/assets/e307569e-5ee5-4234-96e2-ed0000539d6f" />
+
 
 ---
 
